@@ -42,6 +42,7 @@ h1{
     padding-top: 100px;
     background-color: #fff;
     z-index: 1;
+    margin:auto;
 }
 #features .fas{
     color: #ef8172;
